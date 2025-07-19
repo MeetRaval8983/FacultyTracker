@@ -45,8 +45,9 @@
 
 ---
 
-⚠️ License
-🚫 This project is proprietary.
-Patent pending.
-All rights reserved © 2025.
+## ⚠️ License
+
+🚫 This project is proprietary.  
+Patent pending.  
+All rights reserved © 2025.  
 Unauthorized use, copying, or modification is strictly prohibited.
