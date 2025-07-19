@@ -1,16 +1,44 @@
-# facultytracker
+# 📱 FacultyTracker
 
-A new Flutter project.
+**FacultyTracker** is a Flutter-based mobile application that ensures smart, secure, and real-time student monitoring within educational campuses. It is designed to simplify attendance management, enhance student safety, and automate leave approvals using modern technologies.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Key Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔄 Real-time live location tracking of students
+- 🧑‍🎓 **User Module:** Student login, location sharing, and leave request system
+- 🧑‍💼 **Admin Module:** Admin views live student locations on Google Maps, approves leave, and receives alerts if GPS is off
+- 🔕 Background and offline tracking support
+- 🔔 Push notifications for unauthorized logout or GPS shutdown
+- 🔐 Built to ensure campus safety and smart monitoring
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Tech Stack
+
+- **Flutter (Dart)**
+- **Firebase**
+  - Authentication
+  - Realtime Database
+  - Cloud Messaging
+  - Cloud Firestore
+- **Google Maps API**
+- **WorkManager / Foreground Services**
+
+---
+
+## 📊 Current Status
+
+- ✅ Development in progress
+- 📄 Research paper under submission
+- 🧾 Patent application pending
+
+---
+
+## 📦 Getting Started
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/facultytracker.git
+   cd facultytracker
