@@ -36,15 +36,17 @@
 
 ---
 
-⚠️ License
-🚫 This project is proprietary.
-Patent pending.
-All rights reserved © 2025.
-Unauthorized use, copying, or modification is strictly prohibited.
-
 ## 📦 Getting Started
 
 1. Clone the repo:
    ```bash
    git clone https://github.com/YOUR_USERNAME/facultytracker.git
    cd facultytracker
+
+---
+
+⚠️ License
+🚫 This project is proprietary.
+Patent pending.
+All rights reserved © 2025.
+Unauthorized use, copying, or modification is strictly prohibited.
